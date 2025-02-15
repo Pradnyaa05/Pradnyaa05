@@ -25,7 +25,7 @@ Here are some of my key projects:
 - **[WiseInvest](https://github.com/Pradnyaa05/WiseInvest)**: A mutual fund selection and investment guidance platform
 - **[CollabSync](https://github.com/Pradnyaa05/CollabSync-PARSUNETHON-Hackathon)**: A real-time collaboration platform with video conferencing and instant messaging
 - **[Uber Clone](https://github.com/Pradnyaa05/Uber-clone-React-Native)**: A React Native-based Uber-like app with Google Maps integration
-- **[Leftover Food Management System](https://github.com/Pradnyaa05/Java-GUI-Leftover-food-management)**: A Java-based GUI application that aims to reduce food wastage by managing and redistributing surplus food.
+- **[Leftover Food Management System](https://github.com/Pradnyaa05/Java-GUI-Leftover-food-management)**: A Java-based GUI application to reduce food wastage.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradnyaa05&show_icons=true&theme=radical)
