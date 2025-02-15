@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there, I am Pradnya Ingle !👋
 
+I'm a passionate Information Technology undergraduate at VIT Pune. I love exploring new tools and technologies that fascinate me. I am always on the lookout for new learning opportunities and enjoy coming up with new projects to work on.
 <!--
 **Pradnyaa05/Pradnyaa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
