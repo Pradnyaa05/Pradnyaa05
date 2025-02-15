@@ -2,7 +2,6 @@
 
 <h3 align="center">I'm a passionate Information Technology undergraduate at VIT Pune. I love exploring new tools and technologies that fascinate me. I am always on the lookout for new learning opportunities and enjoy coming up with new projects to work on.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
