@@ -1,10 +1,7 @@
 # Hello there, I am Pradnya Ingle! 👋
 
-<h3 align="center">I'm a passionate Information Technology undergraduate at VIT Pune. I love exploring new tools and technologies that fascinate me. I am always on the lookout for new learning opportunities and enjoy coming up with new projects to work on.</h3>
-
 ## 🚀 About Me
 - 🎓 Pursuing a Bachelor's degree in **Information Technology** at **VIT Pune**
-- 🌱 Currently learning **AI/ML, full-stack development, and system programming**
 - 🔍 Exploring **web development, software engineering, and AI-driven solutions**
 - 📚 Passionate about **problem-solving, open-source contributions, and research**
 - 💡 Quick learner with a goal-driven mindset
