@@ -26,7 +26,7 @@
 ## 🔥 Projects
 Here are some of my key projects:
 - **[WiseInvest](https://github.com/Pradnyaa05/WiseInvest)**: A mutual fund selection and investment guidance platform
-- **[CoolabSync]([https://github.com/Pradnyaa05/CoolabSync](https://github.com/Pradnyaa05/CollabSync-PARSUNETHON-Hackathon))**: A real-time collaboration platform with video conferencing and instant messaging
+- **[CoolabSync](https://github.com/Pradnyaa05/CollabSync-PARSUNETHON-Hackathon)**: A real-time collaboration platform with video conferencing and instant messaging
 - **[Animal Species Prediction](https://github.com/Pradnyaa05/animal-species-prediction)**: An AI-powered animal species detection system using deep learning
 - **[Uber Clone](https://github.com/Pradnyaa05/Uber-clone-React-Native)**: A React Native-based Uber-like app with Google Maps integration
 - **[MediCompass](https://github.com/Pradnyaa05/MediCompass)**: A symptom-based Ayurvedic drug recommendation system using Flask
