@@ -23,16 +23,14 @@
 ## 🔥 Projects
 Here are some of my key projects:
 - **[WiseInvest](https://github.com/Pradnyaa05/WiseInvest)**: A mutual fund selection and investment guidance platform
-- **[CoolabSync](https://github.com/Pradnyaa05/CollabSync-PARSUNETHON-Hackathon)**: A real-time collaboration platform with video conferencing and instant messaging
-- **[Animal Species Prediction](https://github.com/Pradnyaa05/animal-species-prediction)**: An AI-powered animal species detection system using deep learning
+- **[CollabSync](https://github.com/Pradnyaa05/CollabSync-PARSUNETHON-Hackathon)**: A real-time collaboration platform with video conferencing and instant messaging
 - **[Uber Clone](https://github.com/Pradnyaa05/Uber-clone-React-Native)**: A React Native-based Uber-like app with Google Maps integration
-- **[MediCompass](https://github.com/Pradnyaa05/MediCompass)**: A symptom-based Ayurvedic drug recommendation system using Flask
+- **[Leftover Food Management System](https://github.com/Pradnyaa05/Java-GUI-Leftover-food-management)**: A Java-based GUI application that aims to reduce food wastage by managing and redistributing surplus food.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradnyaa05&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradnyaa05&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💌 Email: your.email@example.com
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pradnya-ingle/)
+- 💌 Email: pradnyaingle03@gmail.com
