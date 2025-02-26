@@ -1,4 +1,4 @@
-# Hello there, I am Pradnya Ingle! 👋
+# Hello there, I am Pradnya Ingle!👋
 
 ## 🚀 About Me
 - 🎓 Pursuing a Bachelor's degree in **Information Technology** at **VIT Pune**.
