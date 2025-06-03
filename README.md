@@ -21,7 +21,7 @@ Here are some of my key projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradnyaa05&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pradnya-ingle/)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pradnya-ingle/)
 - 💌 Email: pradnyaingle03@gmail.com
 
 
