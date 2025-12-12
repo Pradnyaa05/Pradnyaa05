@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing a Bachelor's degree in **Information Technology** at **VIT Pune**.
-- 💼 I completed my internship at Bank of New York as a Production Services Intern from June 2025 to August 2025.
+- 💼 I completed my internship at **Bank of New York** as a **Production Services Intern** from June 2025 to August 2025.
 - 🔍 Exploring **web development, software engineering, and AI-driven solutions**.
 - 📚 Passionate about **problem-solving, open-source contributions, and research**.
 - 💡 Quick learner with a goal-driven mindset.
